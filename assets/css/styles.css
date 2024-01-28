@@ -627,7 +627,7 @@ a {
 }
 
 .footer .social-link + .social-link {
-    margin-right: 16px;
+    margin-left: 16px;
 }
 
 .footer .social-link:hover {
